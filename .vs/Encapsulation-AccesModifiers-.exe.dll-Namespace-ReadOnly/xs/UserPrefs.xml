@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{65CB62F0-E33B-4A84-9785-52513361CAA6}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly/Program.cs">
+    <Files>
+      <File FileName="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly/Program.cs" Line="14" Column="1" />
+      <File FileName="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly/User.cs" Line="13" Column="14" />
+      <File FileName="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly/Person.cs" Line="13" Column="16" />
+      <File FileName="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly/Student.cs" Line="23" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly" expanded="True">
+            <Node name="Encapsulation-AccesModifiers-.exe.dll-Namespace-ReadOnly">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
